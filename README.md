@@ -1,2 +1,3 @@
-# pneumatic_RAM
+# Pneumatic RAM
+
 Pneumatic RAM chip
