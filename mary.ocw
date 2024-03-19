@@ -1,0 +1,288 @@
+
+g
+o0
+o1
+c2
+end
+
+a
+c0
+o1
+o2
+end
+
+b
+o0
+o1
+o2
+end
+
+d
+c0
+o1
+c2
+end
+
+play
+c3
+end
+
+vent
+o3
+end
+
+
+whole
+w15500
+end
+
+half
+w7000
+end
+
+quarter
+w3000
+end
+
+eighth
+w1500
+end
+
+reset
+call vent
+call g
+call quarter
+call a
+call quarter
+call b
+call quarter
+call d
+call quarter
+end
+
+
+
+chord
+call play
+call g
+call quarter
+//
+call b
+call quarter
+//
+call d
+call quarter
+//
+end
+
+
+
+scales
+//
+call play
+call g
+call quarter
+call vent
+call eighth
+//
+call play
+call a
+call quarter
+call vent
+call eighth
+//
+call play
+call b
+call quarter
+call vent
+call eighth
+//
+call play
+call d
+call quarter
+call vent
+call eighth
+end
+
+
+
+mary
+//  MA
+call play
+call b
+call quarter
+call vent
+call eighth
+//  RY
+call play
+call a
+call quarter
+call vent
+call eighth
+//  HAD
+call play
+call g
+call quarter
+call vent
+call eighth
+//  A
+call play
+call a
+call quarter
+call vent
+call eighth
+//  LIT
+call play
+call b
+call quarter
+call vent
+call eighth
+//  TLE
+call play
+call b
+call quarter
+call vent
+call eighth
+//  LAMB
+call play
+call b
+call half
+call vent
+call eighth
+//  LIT
+call play
+call a
+call quarter
+call vent
+call eighth
+//  TLE
+call play
+call a
+call quarter
+call vent
+call eighth
+//  LAMB
+call play
+call a
+call half
+call vent
+call eighth
+//  LIT
+call play
+call b
+call quarter
+call vent
+call eighth
+//  TLE
+call play
+call d
+call quarter
+call vent
+call eighth
+//  LAMB
+call play
+call d
+call half
+call vent
+call eighth
+//  MA
+call play
+call b
+call quarter
+call vent
+call eighth
+//  RY
+call play
+call a
+call quarter
+call vent
+call eighth
+//  HAD
+call play
+call g
+call quarter
+call vent
+call eighth
+//  A
+call play
+call a
+call quarter
+call vent
+call eighth
+//  LIT
+call play
+call b
+call quarter
+call vent
+call eighth
+//  TLE
+call play
+call b
+call quarter
+call vent
+call eighth
+//  LAMB
+call play
+call b
+call quarter
+call vent
+call eighth
+//  ITS
+call play
+call b
+call quarter
+call vent
+call eighth
+//  FLEECE
+call play
+call a
+call quarter
+call vent
+call eighth
+//  WAS
+call play
+call a
+call quarter
+call vent
+call eighth
+//  WHITE
+call play
+call b
+call quarter
+call vent
+call eighth
+//  AS
+call play
+call a
+call quarter
+call vent
+call eighth
+//  SNOW
+call play
+call g
+call half
+call vent
+call eighth
+// (ENDING)
+call vent
+call quarter
+end
+
+
+exercise
+call play
+call d
+call quarter
+call vent
+call eighth
+end
+
+main
+//call exercise 100
+//call reset
+call mary
+call chord
+end
+
+
+

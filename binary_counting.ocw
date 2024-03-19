@@ -1,0 +1,2147 @@
+main
+c3
+call latch
+end
+
+latch
+//1
+o0
+o1
+o2
+call wait
+o3
+call wait
+//2
+c3
+c0
+o1
+o2
+call wait
+//3
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//4
+c3
+o0
+c1
+o2
+call wait
+//5
+o0
+o1
+o2
+call wait
+o3
+call wait
+//6
+c3
+c0
+o1
+o2
+call wait
+//7
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//8
+c3
+c0
+c1
+o2
+call wait
+//9
+o0
+o1
+o2
+call wait
+o3
+call wait
+//10
+c3
+c0
+o1
+o2
+call wait
+//11
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//12
+c3
+o0
+c1
+o2
+call wait
+//13
+o0
+o1
+o2
+call wait
+o3
+call wait
+//14
+c3
+c0
+o1
+o2
+call wait
+//15
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+//16
+c3
+o0
+o1
+c2
+call wait
+//17
+o0
+o1
+o2
+call wait
+o3
+call wait
+//18
+c3
+c0
+o1
+o2
+call wait
+//19
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//20
+c3
+o0
+c1
+o2
+call wait
+//21
+o0
+o1
+o2
+call wait
+o3
+call wait
+//22
+c3
+c0
+o1
+o2
+call wait
+//23
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//24
+c3
+c0
+c1
+o2
+call wait
+//25
+o0
+o1
+o2
+call wait
+o3
+call wait
+//26
+c3
+c0
+o1
+o2
+call wait
+//27
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//28
+c3
+o0
+c1
+o2
+call wait
+//29
+o0
+o1
+o2
+call wait
+o3
+call wait
+//30
+c3
+c0
+o1
+o2
+call wait
+//31
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+o0
+o1
+c2
+call wait
+//32
+c3
+c0
+o1
+c2
+call wait
+//33
+o0
+o1
+o2
+call wait
+o3
+call wait
+//34
+c3
+c0
+o1
+o2
+call wait
+//35
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//36
+c3
+o0
+c1
+o2
+call wait
+//37
+o0
+o1
+o2
+call wait
+o3
+call wait
+//38
+c3
+c0
+o1
+o2
+call wait
+//39
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//40
+c3
+c0
+c1
+o2
+call wait
+//41
+o0
+o1
+o2
+call wait
+o3
+call wait
+//42
+c3
+c0
+o1
+o2
+call wait
+//43
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//44
+c3
+o0
+c1
+o2
+call wait
+//45
+o0
+o1
+o2
+call wait
+o3
+call wait
+//46
+c3
+c0
+o1
+o2
+call wait
+//47
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+//48
+c3
+o0
+o1
+c2
+call wait
+//49
+o0
+o1
+o2
+call wait
+o3
+call wait
+//50
+c3
+c0
+o1
+o2
+call wait
+//51
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//52
+c3
+o0
+c1
+o2
+call wait
+//53
+o0
+o1
+o2
+call wait
+o3
+call wait
+//54
+c3
+c0
+o1
+o2
+call wait
+//55
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//56
+c3
+c0
+c1
+o2
+call wait
+//57
+o0
+o1
+o2
+call wait
+o3
+call wait
+//58
+c3
+c0
+o1
+o2
+call wait
+//59
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//60
+c3
+o0
+c1
+o2
+call wait
+//61
+o0
+o1
+o2
+call wait
+o3
+call wait
+//62
+c3
+c0
+o1
+o2
+call wait
+//63
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+o0
+o1
+c2
+call wait
+c0
+o1
+c2
+call wait
+//64
+c3
+o0
+c1
+c2
+call wait
+//65
+o0
+o1
+o2
+call wait
+o3
+call wait
+//66
+c3
+c0
+o1
+o2
+call wait
+//67
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//68
+c3
+o0
+c1
+o2
+call wait
+//69
+o0
+o1
+o2
+call wait
+o3
+call wait
+//70
+c3
+c0
+o1
+o2
+call wait
+//71
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//72
+c3
+c0
+c1
+o2
+call wait
+//73
+o0
+o1
+o2
+call wait
+o3
+call wait
+//74
+c3
+c0
+o1
+o2
+call wait
+//75
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//76
+c3
+o0
+c1
+o2
+call wait
+//77
+o0
+o1
+o2
+call wait
+o3
+call wait
+//78
+c3
+c0
+o1
+o2
+call wait
+//79
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+//80
+c3
+o0
+o1
+c2
+call wait
+//81
+o0
+o1
+o2
+call wait
+o3
+call wait
+//82
+c3
+c0
+o1
+o2
+call wait
+//83
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//84
+c3
+o0
+c1
+o2
+call wait
+//85
+o0
+o1
+o2
+call wait
+o3
+call wait
+//86
+c3
+c0
+o1
+o2
+call wait
+//87
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//88
+c3
+c0
+c1
+o2
+call wait
+//89
+o0
+o1
+o2
+call wait
+o3
+call wait
+//90
+c3
+c0
+o1
+o2
+call wait
+//91
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//92
+c3
+o0
+c1
+o2
+call wait
+//93
+o0
+o1
+o2
+call wait
+o3
+call wait
+//94
+c3
+c0
+o1
+o2
+call wait
+//95
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+o0
+o1
+c2
+call wait
+//96
+c3
+c0
+o1
+c2
+call wait
+//97
+o0
+o1
+o2
+call wait
+o3
+call wait
+//98
+c3
+c0
+o1
+o2
+call wait
+//99
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//100
+c3
+o0
+c1
+o2
+call wait
+//101
+o0
+o1
+o2
+call wait
+o3
+call wait
+//102
+c3
+c0
+o1
+o2
+call wait
+//103
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//104
+c3
+c0
+c1
+o2
+call wait
+//105
+o0
+o1
+o2
+call wait
+o3
+call wait
+//106
+c3
+c0
+o1
+o2
+call wait
+//107
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//108
+c3
+o0
+c1
+o2
+call wait
+//109
+o0
+o1
+o2
+call wait
+o3
+call wait
+//110
+c3
+c0
+o1
+o2
+call wait
+/111
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+//112
+c3
+o0
+o1
+c2
+call wait
+//113
+o0
+o1
+o2
+call wait
+o3
+call wait
+//114
+c3
+c0
+o1
+o2
+call wait
+//115
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//116
+c3
+o0
+c1
+o2
+call wait
+//117
+o0
+o1
+o2
+call wait
+o3
+call wait
+//118
+c3
+c0
+o1
+o2
+call wait
+//119
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//120
+c3
+c0
+c1
+o2
+call wait
+//121
+o0
+o1
+o2
+call wait
+o3
+call wait
+//122
+c3
+c0
+o1
+o2
+call wait
+//123
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//124
+c3
+o0
+c1
+o2
+call wait
+//125
+o0
+o1
+o2
+call wait
+o3
+call wait
+//126
+c3
+c0
+o1
+o2
+call wait
+//127
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+o0
+o1
+c2
+call wait
+c0
+o1
+c2
+call wait
+o0
+c1
+c2
+call wait
+//128
+c3
+c0
+c1
+c2
+call wait
+//129
+o0
+o1
+o2
+call wait
+o3
+call wait
+//130
+c3
+c0
+o1
+o2
+call wait
+//131
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//132
+c3
+o0
+c1
+o2
+call wait
+//133
+o0
+o1
+o2
+call wait
+o3
+call wait
+//134
+c3
+c0
+o1
+o2
+call wait
+//135
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//136
+c3
+c0
+c1
+o2
+call wait
+//137
+o0
+o1
+o2
+call wait
+o3
+call wait
+//138
+c3
+c0
+o1
+o2
+call wait
+//139
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//140
+c3
+o0
+c1
+o2
+call wait
+//141
+o0
+o1
+o2
+call wait
+o3
+call wait
+//142
+c3
+c0
+o1
+o2
+call wait
+//143
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+//144
+c3
+o0
+o1
+c2
+call wait
+//145
+o0
+o1
+o2
+call wait
+o3
+call wait
+//146
+c3
+c0
+o1
+o2
+call wait
+//147
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//148
+c3
+o0
+c1
+o2
+call wait
+//149
+o0
+o1
+o2
+call wait
+o3
+call wait
+//150
+c3
+c0
+o1
+o2
+call wait
+//151
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//152
+c3
+c0
+c1
+o2
+call wait
+//153
+o0
+o1
+o2
+call wait
+o3
+call wait
+//154
+c3
+c0
+o1
+o2
+call wait
+//155
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//156
+c3
+o0
+c1
+o2
+call wait
+//157
+o0
+o1
+o2
+call wait
+o3
+call wait
+//158
+c3
+c0
+o1
+o2
+call wait
+//159
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+o0
+o1
+c2
+call wait
+//160
+c3
+c0
+o1
+c2
+call wait
+//161
+o0
+o1
+o2
+call wait
+o3
+call wait
+//162
+c3
+c0
+o1
+o2
+call wait
+//163
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//164
+c3
+o0
+c1
+o2
+call wait
+//165
+o0
+o1
+o2
+call wait
+o3
+call wait
+//166
+c3
+c0
+o1
+o2
+call wait
+//167
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//168
+c3
+c0
+c1
+o2
+call wait
+//169
+o0
+o1
+o2
+call wait
+o3
+call wait
+//170
+c3
+c0
+o1
+o2
+call wait
+//171
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//172
+c3
+o0
+c1
+o2
+call wait
+//173
+o0
+o1
+o2
+call wait
+o3
+call wait
+//174
+c3
+c0
+o1
+o2
+call wait
+//175
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+//176
+c3
+o0
+o1
+c2
+call wait
+//177
+o0
+o1
+o2
+call wait
+o3
+call wait
+//178
+c3
+c0
+o1
+o2
+call wait
+//179
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//180
+c3
+o0
+c1
+o2
+call wait
+//181
+o0
+o1
+o2
+call wait
+o3
+call wait
+//182
+c3
+c0
+o1
+o2
+call wait
+//183
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//184
+c3
+c0
+c1
+o2
+call wait
+//185
+o0
+o1
+o2
+call wait
+o3
+call wait
+//186
+c3
+c0
+o1
+o2
+call wait
+//187
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//188
+c3
+o0
+c1
+o2
+call wait
+//189
+o0
+o1
+o2
+call wait
+o3
+call wait
+//190
+c3
+c0
+o1
+o2
+call wait
+//191
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+o0
+o1
+c2
+call wait
+c0
+o1
+c2
+call wait
+//192
+c3
+o0
+c1
+c2
+call wait
+//193
+o0
+o1
+o2
+call wait
+o3
+call wait
+//194
+c3
+c0
+o1
+o2
+call wait
+//195
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//196
+c3
+o0
+c1
+o2
+call wait
+//197
+o0
+o1
+o2
+call wait
+o3
+call wait
+//198
+c3
+c0
+o1
+o2
+call wait
+//199
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//200
+c3
+c0
+c1
+o2
+call wait
+//201
+o0
+o1
+o2
+call wait
+o3
+call wait
+//202
+c3
+c0
+o1
+o2
+call wait
+//203
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//204
+c3
+o0
+c1
+o2
+call wait
+//205
+o0
+o1
+o2
+call wait
+o3
+call wait
+//206
+c3
+c0
+o1
+o2
+call wait
+//207
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+//208
+c3
+o0
+o1
+c2
+call wait
+//209
+o0
+o1
+o2
+call wait
+o3
+call wait
+//210
+c3
+c0
+o1
+o2
+call wait
+//211
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//212
+c3
+o0
+c1
+o2
+call wait
+//213
+o0
+o1
+o2
+call wait
+o3
+call wait
+//214
+c3
+c0
+o1
+o2
+call wait
+//215
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//216
+c3
+c0
+c1
+o2
+call wait
+//217
+o0
+o1
+o2
+call wait
+o3
+call wait
+//218
+c3
+c0
+o1
+o2
+call wait
+//219
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//220
+c3
+o0
+c1
+o2
+call wait
+//221
+o0
+o1
+o2
+call wait
+o3
+call wait
+//222
+c3
+c0
+o1
+o2
+call wait
+//223
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+o0
+o1
+c2
+call wait
+//224
+c3
+c0
+o1
+c2
+call wait
+//225
+o0
+o1
+o2
+call wait
+o3
+call wait
+//226
+c3
+c0
+o1
+o2
+call wait
+//227
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//228
+c3
+o0
+c1
+o2
+call wait
+//229
+o0
+o1
+o2
+call wait
+o3
+call wait
+//230
+c3
+c0
+o1
+o2
+call wait
+//231
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//232
+c3
+c0
+c1
+o2
+call wait
+//233
+o0
+o1
+o2
+call wait
+o3
+call wait
+//234
+c3
+c0
+o1
+o2
+call wait
+//235
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//236
+c3
+o0
+c1
+o2
+call wait
+//237
+o0
+o1
+o2
+call wait
+o3
+call wait
+//238
+c3
+c0
+o1
+o2
+call wait
+//239
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+c0
+c1
+o2
+call wait
+//240
+c3
+o0
+o1
+c2
+call wait
+//241
+o0
+o1
+o2
+call wait
+o3
+call wait
+//242
+c3
+c0
+o1
+o2
+call wait
+//243
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//244
+c3
+o0
+c1
+o2
+call wait
+//245
+o0
+o1
+o2
+call wait
+o3
+call wait
+//246
+c3
+c0
+o1
+o2
+call wait
+//247
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+o0
+c1
+o2
+call wait
+//248
+c3
+c0
+c1
+o2
+call wait
+//249
+o0
+o1
+o2
+call wait
+o3
+call wait
+//250
+c3
+c0
+o1
+o2
+call wait
+//251
+o0
+o1
+o2
+call wait
+o3
+call wait
+c0
+o1
+o2
+call wait
+//252
+c3
+o0
+c1
+o2
+call wait
+//253
+o0
+o1
+o2
+call wait
+o3
+call wait
+//254
+c3
+c0
+o1
+o2
+call wait
+//255
+o0
+o1
+o2
+call wait
+end
+
+wait
+w5000
+end
